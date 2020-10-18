@@ -10,9 +10,9 @@ collections:
   posts:
     output: true
     permalink: /articles/:year/:month/:day/:title:output_ext
-  # projects:
-  #   output: true
-  #   permalink: /projects/:slug:output_ext
+  projects:
+    output: true
+    permalink: /projects/:slug:output_ext
 
 defaults:
   -

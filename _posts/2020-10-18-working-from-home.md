@@ -9,7 +9,7 @@ The year 2020 has been an interesting year for everyone. Luckily being based in 
 
 But there were some big changes for everyone with a sudden and so far permanent shift to working from home. 
 
-## The office
+### The office
 
 ![](/images/20200719_165654.jpg)
 
@@ -19,7 +19,7 @@ So I bought an EdgeRouter-x and a UniFi AP then replaced my Powerline Adapter go
 
 I also retained the [Pi-hole](https://pi-hole.net) as my DNS and DHCP servers and as this apartment has 2 wired ethernet ports, 1 in the living room and 1 in the master bedroom so the TV, PlayStation and Switch can all be wired.
 
-## The upgrade
+### The upgrade
 
 <div class="gallery" data-columns="3">
     <img src="/images/20200919_205613.jpg">
