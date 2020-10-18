@@ -5,7 +5,7 @@ subtitle: Software Developer & Technical Lead
 featured_image: 
 ---
 
-![](/images/about.jpg)
+![](/images/about-me.jpg)
 
 ## Bio
 
