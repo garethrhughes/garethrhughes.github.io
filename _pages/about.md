@@ -18,7 +18,7 @@ I am a .NET and JavaScript developer and Technical Lead based in Sydney, Austral
 
 I am an avid video gamer, very amateur photographer, vegan and am working on becoming more of a writer. I blog about technology, programming, managing and gaming. 
 
-<a href="mainto:hughesrgareth@gmail.com" class="button button--large">Get in touch</a>
+<a href="mailto:hughesrgareth@gmail.com" class="button button--large">Get in touch</a>
 
 ## Languages & Frameworks
 
