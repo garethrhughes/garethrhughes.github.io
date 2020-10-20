@@ -3,6 +3,7 @@ title: 'New website'
 date: 2020-10-18 00:00:00
 featured_image: 
 excerpt: 
+comments: true
 ---
 
 My last attempt to blog was a few years ago now, I used to regularly blog earlier in my career and it's something I always struggled to maintain as I'm not the best writer. 

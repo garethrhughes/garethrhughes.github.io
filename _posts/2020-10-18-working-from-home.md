@@ -3,6 +3,7 @@ title: 'Working from home'
 date: 2020-10-18 00:00:00
 featured_image: '/images/20200719_165654.jpg'
 excerpt: 
+comments: true
 ---
 
 The year 2020 has been an interesting year for everyone. Luckily being based in NSW where Covid-19 has been relatively well handled, we managed to get back to a level of normality relatively soon.
