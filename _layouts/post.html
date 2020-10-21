@@ -9,13 +9,18 @@ layout: default
 		<h1>{{ page.title }}</h1>
 		<p class="subtitle">{{ page.date | date_to_long_string }}</p>
 
-		{{ page.content }}
+		{{ page.content }}		
 
 		{% if page.comments %} 
 			<div class="inner">
 				<div id="disqus_thread"></div>
 			</div>
 			<script>
+				var disqus_config = function () {
+					this.page.url = 'https://garethhughes.dev{{ page.url }}';  
+					this.page.identifier = '{{ page.url }}'; 
+				};
+				
 				(function() { // DON'T EDIT BELOW THIS LINE
 				var d = document, s = d.createElement('script');
 				s.src = 'https://gareth-hughes.disqus.com/embed.js';

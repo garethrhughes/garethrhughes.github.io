@@ -1,7 +1,7 @@
 ---
 title: 'Working from home'
 date: 2020-10-18 00:00:00
-featured_image: '/images/20200719_165654.jpg'
+featured_image: '/images/2020/10/18/20200719_165654.jpg'
 excerpt: 
 comments: true
 ---
