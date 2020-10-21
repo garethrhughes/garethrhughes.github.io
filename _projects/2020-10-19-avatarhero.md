@@ -56,16 +56,16 @@ Font styling in Canvas can be an interesting challenge, the font effect is achie
 
 ```js
 let outline = function(context, size, fontData) {
-    let { w, h } = size;
-    let { family, weight } = fontData;
+    const { w, h } = size;
+    const { family, weight } = fontData;
 
-    var fontSize = 150;
+    let fontSize = 150;
     
     context.globalAlpha = this.opacity;
     context.font = '${weight} ${fontSize}px ${family}';
     context.textAlign = "center"; 
 
-    var textSize = context.measureText(this.asset);
+    let textSize = context.measureText(this.asset);
     while (textSize.width > 900) {
         fontSize -= 2;
         context.font = '${weight} ${fontSize}px ${family}';
