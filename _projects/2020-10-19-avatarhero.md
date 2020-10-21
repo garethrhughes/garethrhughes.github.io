@@ -10,7 +10,7 @@ excerpt: 'A dynamic avatar builder MVP built using the following technologies: V
 
 A dynamic avatar builder MVP built using the following technologies: Vue.js and Canvas for the front-end. Node.js, node-canvas, DynamoDB and Paypal integration in the API. 
 
-![](/images/53844d39-a105-4739-8941-2f64d369f878/512.png)
+![](/images/2020/10/19/512.png)
 
 ### Rendering
 

@@ -12,7 +12,7 @@ But there were some big changes for everyone with a sudden and so far permanent 
 
 ### The office
 
-![](/images/20200719_165654.jpg)
+![](/images/2020/10/18/20200719_165654.jpg)
 
 I already had a pretty good setup prior to lockdown so only a few workstation updates were needed (plus the D.Va Secretlab chair). However the network side of things needed some work. I was originally running everything from a D6400 combined with a powerline ethernet adapter, which worked okay for a while but started to lock up regularly and need rebooting often. Either faulty hardware or the demand was too much.
 
@@ -23,8 +23,8 @@ I also retained the [Pi-hole](https://pi-hole.net) as my DNS and DHCP servers an
 ### The upgrade
 
 <div class="gallery" data-columns="3">
-    <img src="/images/20200919_205613.jpg">
-	<img src="/images/20200928_123943.jpg">
-	<img src="/images/20200928_180402.jpg">
-	<img src="/images/20200928_180349.jpg">
+    <img src="/images/2020/10/18/20200919_205613.jpg">
+	<img src="/images/2020/10/18/20200928_123943.jpg">
+	<img src="/images/2020/10/18/20200928_180402.jpg">
+	<img src="/images/2020/10/18/20200928_180349.jpg">
 </div>
