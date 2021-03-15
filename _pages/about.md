@@ -17,8 +17,6 @@ I started my career as a web developer working primarily in PHP and JavaScript o
 
 I am an avid video gamer, love fitness, yoga, very amateur photographer, vegan and am working on becoming more of a writer. I plan to blog about technology, programming, leadership and gaming. 
 
-![](/images/graduation.jpg)
-
 ## What I do
 
 I have many years experience in a variety of platforms and languages however these are my current preferred technologies & skills:
