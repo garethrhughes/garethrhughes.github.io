@@ -25,9 +25,4 @@ I also retained the [Pi-hole](https://pi-hole.net) as my DNS and DHCP servers an
 
 ### The upgrade
 
-<div class="gallery" data-columns="3">
-    <img src="/assets/img/2020/10/18/20200919_205613.jpg">
-	<img src="/assets/img/2020/10/18/20200928_123943.jpg">
-	<img src="/assets/img/2020/10/18/20200928_180402.jpg">
-	<img src="/assets/img/2020/10/18/20200928_180349.jpg">
-</div>
+{% include gallery.html folder="/assets/img/2020/10/18" %}
