@@ -21,7 +21,7 @@ timezone: Australia/Sydney
 
 title: Gareth Hughes                          # the main title
 
-tagline: .NET & JavaScript Software Developer and Technical Lead.   # it will display as the sub-title
+tagline: .NET & JavaScript Developer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   .NET & JavaScript Software Developer and Technical Lead.
