@@ -1,7 +1,7 @@
 ---
 title: 'Base64 image helper for Handlebars'
 author: gareth
-date: 2021-07-07 00:00:00 +10:00
+date: 2021-07-07 18:00:00 +1000
 excerpt: Creating a base64 image helper for Handlebars for use with the PDF Generator
 categories: [Development]
 tags: [development, javascript, aws]

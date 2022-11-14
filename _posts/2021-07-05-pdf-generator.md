@@ -1,7 +1,7 @@
 ---
 title: 'PDF Generator using Terraform, AWS, Lambda and API Gateway'
 author: gareth
-date: 2021-07-05 00:00:00 +10:00
+date: 2021-07-05 18:00:00 +1000
 featured_image: /assets/img/2021/07/05/header.png
 excerpt: First time working with Terraform to make a HTML/CSS to PDF service in AWS using Lambda and API Gateway
 categories: [Development]

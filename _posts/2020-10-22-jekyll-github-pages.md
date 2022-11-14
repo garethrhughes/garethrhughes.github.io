@@ -1,7 +1,7 @@
 ---
 title: 'Jekyll and Github pages'
 author: gareth
-date: 2020-10-21 00:00:00 +10:00
+date: 2020-10-22 18:00:00 +1000
 excerpt: Why I decided to use Github pages and Jekyll for my new blog
 categories: [Blogging]
 tags: [blogging]

@@ -1,7 +1,7 @@
 ---
 title: 'Photography at the Opera House'
 author: gareth
-date: 2020-11-08 00:00:00 +10:00
+date: 2020-11-08 18:00:00 +1000
 featured_image: /assets/img/2020/11/08/DSC_0316.jpg
 excerpt: A little photography near the Opera House
 categories: [Photography]
