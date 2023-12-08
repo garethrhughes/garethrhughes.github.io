@@ -1,13 +1,13 @@
 ---
-title: Deploying Lambdas into shared API Gateway
+title: Deploying Resources Into Shared API Gateway
 author: gareth
 date: 2023-12-09 07:00:00 +1000
-excerpt: Deploying Lambdas into shared API Gateway
+excerpt: Deploying Resources Into Shared API Gateway
 categories: [Development]
 tags: [development, aws, cloud]
 ---
 
-We wanted to have a shared Cloudfront Distribution and API Gateway and deploy multiple lambdas from potentially different stacks as endpoints on this API Gateway, this way we can control access and authenication at a centralised location.
+We wanted to have a shared Cloudfront Distribution and API Gateway and deploy multiple resources from potentially different stacks as endpoints on this API Gateway, this way we can control access and authenication at a centralised location.
 
 This assumes you already have an API Gateway and a VPC deployed and `CommonVpcId`, `CommonApiGatewayId` and `CommonRootResorceId` available in SSM.
 
