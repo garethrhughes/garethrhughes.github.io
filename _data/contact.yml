@@ -19,7 +19,7 @@
 -
   type: mastodon
   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-  url:  'https://dotnet.social/@gareth'                  # Fill with your mastodon account page
+  url:  'https://aus.social/@gazza'                  # Fill with your mastodon account page
 # -
 #   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
