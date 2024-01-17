@@ -1,7 +1,7 @@
 ---
 title: Deploying Resources Into Shared API Gateway - Part 2 
 author: gareth
-date: 2023-12-09 07:00:00 +1000
+date: 2024-01-18 07:00:00 +1000
 excerpt: Deploying Resources Into Shared API Gateway - Updating the stage in apigateway
 categories: [Development]
 tags: [development, aws, cloud]
