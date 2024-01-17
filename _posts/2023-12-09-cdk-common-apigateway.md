@@ -7,7 +7,7 @@ categories: [Development]
 tags: [development, aws, cloud]
 ---
 
-> This post only gets you part way, it doesn't update the stage when deploying - [Updating the stage in ApiGateway]({% post_url 2023-01-18-updating-stage-apigateway %})
+> This post only gets you part way, it doesn't update the stage when deploying - [Updating the stage in ApiGateway]({% post_url 2024-01-18-updating-stage-apigateway %})
 {: .prompt-info }
 
 We wanted to have a shared Cloudfront Distribution and API Gateway and deploy multiple resources from potentially different stacks as endpoints on this API Gateway, this way we can control access and authenication at a centralised location.
