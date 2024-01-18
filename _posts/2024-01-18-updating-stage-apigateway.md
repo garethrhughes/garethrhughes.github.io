@@ -73,18 +73,18 @@ NODE_ENV="${1:-sandbox}" npx aws-cdk deploy --ci --require-approval $REQUIRE_APP
 aws cloudformation describe-stacks --stack-name 'StackNameHere' | jq '.Stacks | .[] | .Outputs | reduce .[] as $i ({}; .[$i.OutputKey] = $i.OutputValue)' > build/common.json
 
 # get the common api gateway from the stack details
-RESI_ID=$(jq -r '.restApiId' 'build/common.json')
+REST_ID=$(jq -r '.restApiId' 'build/common.json')
 
 # Create a deploymnt manually and output to json file
-echo "Creating deployment on $RESI_ID on $NODE_ENV stage"
-aws apigateway create-deployment --rest-api-id $RESI_ID --stage-name $NODE_ENV > build/deployment.json
+echo "Creating deployment on $REST_ID on $NODE_ENV stage"
+aws apigateway create-deployment --rest-api-id $REST_ID --stage-name $NODE_ENV > build/deployment.json
 
 # Grab the deployment Id from the json file 
 DEPLOYMENT_ID=$(jq -r '.id' 'build/deployment.json')
 
 # Update the stage with the deployment ID
-echo "Updating stage with deployment $DEPLOYMENT_ID on $RESI_ID on $NODE_ENV stage"
-aws apigateway update-stage --rest-api-id $RESI_ID --stage-name $NODE_ENV --patch-operations op='replace',path='/deploymentId',value="$DEPLOYMENT_ID" > build/update.json
+echo "Updating stage with deployment $DEPLOYMENT_ID on $REST_ID on $NODE_ENV stage"
+aws apigateway update-stage --rest-api-id $REST_ID --stage-name $NODE_ENV --patch-operations op='replace',path='/deploymentId',value="$DEPLOYMENT_ID" > build/update.json
 
 echo 'Deployment complete'
 ```
